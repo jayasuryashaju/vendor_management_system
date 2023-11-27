@@ -39,6 +39,7 @@ These instructions will guide you on setting up the project on your local machin
 3. **Apply migrations:**
 
     ```bash
+    python manage.py makemigrations
     python manage.py migrate
     ```
 
